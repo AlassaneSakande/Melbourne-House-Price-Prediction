@@ -1,0 +1,20 @@
+Some requirements are:
+
+sofware:
+
+scikit-learn 2.3.1
+python 3+
+pandas
+numpy
+matplotlib
+seaborn
+xgboost
+optuna
+lightgbm
+lazypredict
+
+
+Hardware :
+
+GPU of preference
+8 GB memory
