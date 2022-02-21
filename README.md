@@ -1,8 +1,8 @@
-MELBOURNE-HOUSE-PRICE-PREDICTION
+## MELBOURNE-HOUSE-PRICE-PREDICTION
 
 This is an ML regression project concerning the prediction of the prices of houses in Melbourne.
 
-Set up
+# Set up
 
 It has been developped on Google Colabs due to time and memory consumption.
 
@@ -10,17 +10,18 @@ You can get the required materials from the requirements.txt file
 
 This repository is only on training purposes for any ML practionner who want to find out other ways to deal with this classic ML project.
 
-Datasets
+# Datasets
 
+We've used the Melboune_house_Price_FULL dataset from Kaggle.
 The dataset contains initially 34,857 instances with 15 columns, we've made spliting of:
 training : 24,399
 test : 10,458
 
-Pre-training
+# Pre-training
 
 We've finally worked with 43 columns after One-hot-encoding 
 
-Metrics and Results
+# Metrics and Results
 
 We've achieved :
 
