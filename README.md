@@ -1,6 +1,6 @@
 ## MELBOURNE-HOUSE-PRICE-PREDICTION
 
-This is an ML regression project concerning the prediction of the prices of houses in Melbourne.
+This is a ML regression project concerning the prediction of the prices of houses in Melbourne.
 
 # Set up
 
